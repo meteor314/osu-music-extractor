@@ -1,0 +1,10 @@
+.vscode/
+.venv/
+*.pyc
+__pycache__/
+*.egg-info/
+*.swo
+*.swp
+osu_music/
+main.spec
+dist/

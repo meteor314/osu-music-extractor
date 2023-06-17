@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   <a href="https://github.com/meteor314/series"><img src="https://i.imgur.com/KCMH19P.png" alt="Markdownify" width="51px" ></a>
@@ -25,6 +24,16 @@
 
 ![screenshot](https://i.imgur.com/202MDdA.jpg)
 
+## Windows
+
+If you're using windows you can execute ``main.exe` file in [releases](https://github.com/meteor314/osu-music-extractor/releases/tag/stable)
+or main.py
+
+If you want to use main.py instead of main.exe you need to install python3 and pip3 and run this command in cmd or powershell:
+
+```bash
+pip3 install -r requirements.txt
+```
 
 ## Download depndecies
 
@@ -33,7 +42,7 @@
 sudo apt install exiftool
 
 # Arch
-yay -S perl-image-exiftool 
+yay -S perl-image-exiftool
 
 ```
 
@@ -44,11 +53,9 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and an
 ```bash
 curl -s https://raw.githubusercontent.com/meteor314/osu-music-extractor/master/install.sh | bash
 ```
+
 > **Note**
 > Some beatmaps can not be extracted with file name, because of the lack of metadata.
-
-
-
 
 ## Support
 
@@ -60,8 +67,6 @@ This software uses the following open source packages:
 
 - [exiftool](https://exiftool.org/)
 
-
-
 ## You may also like...
 
 - [ny-cli](https://github.com/meteor314/ny-cli) - A streaming app for movies and series with a lot of features from cli
@@ -71,18 +76,17 @@ This software uses the following open source packages:
 
 <a href="#" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-<p>Or</p> 
+<p>Or</p>
 
 <a href="#">
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
 ## License
+
 MIT License
 
 ---
 
-
 > GitHub [@meteor314](https://github.com/meteor314) &nbsp;&middot;&nbsp;
 > CodePen [@meteor314](https://codepen.io/meteor314)
-
