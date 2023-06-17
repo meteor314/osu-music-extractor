@@ -34,7 +34,12 @@ If you want to use main.py instead of main.exe you need to install python3 and p
 ```bash
 pip3 install -r requirements.txt
 ```
+and run 
+```python
+python main.py
+```
 
+## Linux 
 ## Download depndecies
 
 ```bash
